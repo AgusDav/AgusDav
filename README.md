@@ -8,14 +8,6 @@ I'm 21 years old, I'm a junior developer with no work experience looking to lear
 
 <br><br>
 
-# 🔭 I’m currently working on 
-
-< --- - <a href="https://github.com/sosam1/guessTheFlag.io">Guess the flag 2.0</a>--- >
-
-< --- - <a href="https://github.com/sosam1/plazas-ya-front-end">Plazas-ya (Front-End)</a>--- >
-
-< --- - <a href="https://github.com/sosam1/plazas-ya">Plazas-ya (Back-End)</a>--- >
-
 # Let's contact    
   <a href = "mailto:davytagustin@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
