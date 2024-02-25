@@ -3,7 +3,7 @@ I'm 21 years old, I'm a junior developer with no work experience looking to lear
 # My skills:
 
 <img align="left" alt="C++ logo" width="26px" src="https://w7.pngwing.com/pngs/46/626/png-transparent-c-logo-the-c-programming-language-computer-icons-computer-programming-source-code-programming-miscellaneous-template-blue.png" />
-<img align="left" alt="Java logo" width="26px" src="https://imagedelivery.net/5MYSbk45M80qAwecrlKzdQ/4be0b103-c00d-4c07-da9f-ca175dd8ae00/preview" />
+<img align="left" alt="Java logo" width="26px" src="https://banner2.cleanpng.com/20180517/zve/kisspng-java-programmer-computer-programming-logo-5afe2f1dcf9897.0745314915266076458503.jpg" />
 <img align="left" alt="JS logo" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 
 <br><br>
