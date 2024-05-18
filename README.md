@@ -1,10 +1,5 @@
 # Hi there, my name is Agustín Davyt 👋
 I'm 21 years old, I'm a junior developer with no work experience looking to learn through my own projects
-# My skills:
-
-<img align="left" alt="C++ logo" width="40px" src="https://brandslogos.com/wp-content/uploads/images/large/c-logo.png" />
-<img align="left" alt="Java logo" width="40px" src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png" />
-
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AgusDav)](https://github.com/anuraghazra/github-readme-stats)
 
