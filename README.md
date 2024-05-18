@@ -1,7 +1,7 @@
 # Hi there, my name is Agustín Davyt 👋
 I'm 21 years old, I'm a junior developer with no work experience looking to learn through my own projects
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AgusDav)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 
 <br><br>
 
