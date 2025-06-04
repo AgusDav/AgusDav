@@ -5,7 +5,7 @@ I'm a 21 years old junior developer who's looking to learn through his own proje
 
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AgusDav&theme=gotham&layout=compact&hide=glsl,astro,makefile,rust,go,xslt&langs_count=7&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AgusDav&theme=gotham&layout=compact&hide=glsl,astro,makefile,rust,html,xslt&langs_count=7&hide_border=true)
 
 ---
 
